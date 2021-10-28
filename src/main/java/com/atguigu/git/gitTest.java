@@ -14,5 +14,6 @@ public class gitTest {
         System.out.println("test 2");
         System.out.println("fix-out 1");
         System.out.println("test 3");
+        System.out.println("fix-out 2");
     }
 }
